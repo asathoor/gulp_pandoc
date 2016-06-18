@@ -1,5 +1,5 @@
 {
-  "name": "hop16",
+  "name": "Gulp Pandoc",
   "version": "1.0.0",
   "description": "Had to try an automated pandoc thing.",
   "main": "gulpfile.js",
